@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dome-v1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dome-v1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
